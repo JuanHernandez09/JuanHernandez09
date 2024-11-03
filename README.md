@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hello, there 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Juan Hernadez from Elmhurst University<br><br>- 🔭 I'm Enrolled in University as a Computer Science, and Cybersecurity. <br>- 📚 I'm currently learning Android Develpment <br>- ⚡ In my free time I like to go to the gym, spend time with my family. </p>
 
 ###
 
